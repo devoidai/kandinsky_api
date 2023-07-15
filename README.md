@@ -32,4 +32,4 @@ If everything is done correctly, the server will be launched at http://localhost
 
 ## Documentation
 
-Documentation is available at http://localhost:80/docs.
+After the run, the documentation will be available at http://localhost:80/docs.
